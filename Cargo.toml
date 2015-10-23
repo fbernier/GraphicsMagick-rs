@@ -1,0 +1,6 @@
+[package]
+name = "graphicksmagic"
+version = "0.1.0"
+authors = ["Francois Bernier <frankbernier@gmail.com>"]
+[dependencies]
+libc = "*"
